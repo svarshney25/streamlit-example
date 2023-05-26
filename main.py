@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+!pip install cv2
 import cv2
 from PIL import Image, ImageEnhance
 import numpy as np
