@@ -299,8 +299,6 @@ with st.echo(code_location='below'):
         print()
         
 
-# if __name__ == '__main__':
-# 		main()	
 #     total_points = st.slider("Number of points in spiral SHIVIKAA", 1, 5000, 2000)
 #     num_turns = st.slider("Number of turns in spiral", 1, 100, 9)
 
