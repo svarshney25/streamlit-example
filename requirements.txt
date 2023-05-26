@@ -3,3 +3,4 @@ pandas
 streamlit
 moviepy
 github_gist
+cv2
