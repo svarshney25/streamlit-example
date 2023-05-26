@@ -20,8 +20,8 @@ import os
 #import tensorflow as tf
 #import tensorflow_hub as hub
 import time ,sys
-pip install github_gist
-from streamlit_embedcode import github_gist
+# pip install github_gist
+# from streamlit_embedcode import github_gist
 import urllib.request
 import urllib
 import moviepy.editor as moviepy
