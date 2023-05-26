@@ -2,3 +2,4 @@ altair
 pandas
 streamlit
 moviepy
+github_gist
